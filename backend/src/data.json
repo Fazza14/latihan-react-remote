@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1791764099531",
+      "title": "Masak Ayam",
+      "description": "Masak Ayam Opor",
+      "status": "to_do"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "17917640995310.3051484176617626",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "to_do",
+      "toStatus": "to_do",
+      "timestamp": "2026-10-12T00:14:59.531Z"
+    },
+    {
+      "id": "1791764102630",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "to_do",
+      "toStatus": "pending",
+      "timestamp": "2026-10-12T00:15:02.630Z"
+    },
+    {
+      "id": "1791764103247",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "pending",
+      "toStatus": "in_progress",
+      "timestamp": "2026-10-12T00:15:03.247Z"
+    },
+    {
+      "id": "1791764104371",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "in_progress",
+      "toStatus": "to_do",
+      "timestamp": "2026-10-12T00:15:04.371Z"
+    },
+    {
+      "id": "1791764104795",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "to_do",
+      "toStatus": "in_progress",
+      "timestamp": "2026-10-12T00:15:04.795Z"
+    },
+    {
+      "id": "1791764105461",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "in_progress",
+      "toStatus": "done",
+      "timestamp": "2026-10-12T00:15:05.461Z"
+    },
+    {
+      "id": "1791764106035",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "done",
+      "toStatus": "in_progress",
+      "timestamp": "2026-10-12T00:15:06.035Z"
+    },
+    {
+      "id": "1791764106482",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "in_progress",
+      "toStatus": "pending",
+      "timestamp": "2026-10-12T00:15:06.482Z"
+    },
+    {
+      "id": "1791764106914",
+      "taskId": "1791764099531",
+      "actor": "alice.smith",
+      "fromStatus": "pending",
+      "toStatus": "to_do",
+      "timestamp": "2026-10-12T00:15:06.914Z"
+    }
+  ]
+}
